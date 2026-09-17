@@ -1,4 +1,4 @@
-**Restaurant Intelligence Platform — Real-Time Data Engineering & AI Analytics**
+## Restaurant Intelligence Platform — Real-Time Data Engineering & AI Analytics
 
 A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics:
 
